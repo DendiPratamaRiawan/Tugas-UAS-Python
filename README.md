@@ -40,7 +40,8 @@ Project ini adalah aplikasi **toko gadget berbasis Python** yang dijalankan sepe
   - `hashlib` → untuk hashing password  
   - `csv` → untuk export laporan  
   - `os` → untuk clear screen dan navigasi  
-  - `datetime` → untuk timestamp transaksi  
+  - `datetime` → untuk timestamp transaksi
+- Database MySql
 
 ---
 
